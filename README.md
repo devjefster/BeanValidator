@@ -12,9 +12,11 @@ A powerful and lightweight **struct validation library** for Go, inspired by Jav
 ---
 
 ## **📌 Installation**
+To use **GoValidator**, install it as a Go module:
 ```sh
-  go get github.com/devjefster/GoValidator
+  go get github.com/devjefster/GoValidator@latest
 ```
+
 ## 📌 Usage Example
 
 Create a struct with validation tags and run the validator.
