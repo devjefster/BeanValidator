@@ -108,11 +108,3 @@ Feel free to fork, contribute, and open issues to improve this library! 🚀
 ✅ **Installation and test instructions**  
 ✅ **Encourages contributions and improvements**
 
----
-
-### **🚀 Next Steps**
-Would you like help with:
-1. **Publishing this as a Go module?**
-2. **Adding more validation rules or custom error messages?**
-
-Let me know how you'd like to proceed! 🚀🔥
